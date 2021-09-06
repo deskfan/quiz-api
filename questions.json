@@ -1,0 +1,29 @@
+[
+    {
+        "question":"What is the capital of France?",
+        "options": ["London","Halifax","Tokyo","Paris"],
+        "answer": 4
+    },
+    {
+        "question":"What is 5 + 7?",
+        "options": ["12","10","7","15"],
+        "answer": 1
+    },
+    {
+        "question":"Which planet is closest to the sun?",
+        "options": ["Earth","Mars","Mercury","Venus"],
+        "answer": 3
+    },
+    {
+        "question":"Which is the fastest animal?",
+        "options": ["Wolf","Cheetah","Shark","Peregrine Falcon"],
+        "answer": 4
+    },
+    {
+        "question":"What is 15 - 4?",
+        "options": ["10","11","12","9"],
+        "answer": 2
+    }
+
+
+]
